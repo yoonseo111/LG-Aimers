@@ -9,8 +9,8 @@ MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 
 ## 📊데이터
 
-- train.csv : 학습데이터
-- submission.csv : 예측시킬 데이터 (제출 파일)
+- train.csv : 학습 데이터
+- submission.csv : 테스트 데이터 (제출 파일)
 
 | Field | 설명 |
 | --- | --- |
